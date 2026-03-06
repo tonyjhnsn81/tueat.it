@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://tueat.it/sitemap.xml
